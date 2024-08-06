@@ -1,0 +1,88 @@
+#head {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    color: rgb(191, 195, 96);
+}
+
+label {
+    color: lightgreen;
+}
+
+.button {
+    margin-top: 15px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.main {
+    height: 100%;
+    background-image: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/project_management_coursefees.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+/* button
+{
+    padding:10px;
+    background-color: green;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.leftcontainer
+{
+    border: 1px solid black;
+    padding-left: 80px;
+    padding-top: 15px;
+    width: 550px;
+    box-shadow: 50%;
+}
+.rightcontainer{
+ border: 1px solid black;
+    position: absolute; 
+     left: 55%;
+    top: 12%; 
+    width: 500px;
+} 
+#headleft
+{
+    display: flex;
+    justify-content: center;
+}
+#data
+{
+    padding-left: 20%;
+
+}
+label
+{
+    color: red;
+}
+h2,h3{
+      color: rgb(191, 195, 96);
+} */
+
+
+/* th
+{
+    background-color: gray;
+   
+}
+a
+{
+    color: white;
+    text-decoration: none;
+} */
